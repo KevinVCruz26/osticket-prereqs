@@ -132,3 +132,9 @@ Click “Install Now!”
 
 ![image](https://github.com/KevinVCruz26/osticket-prereqs/assets/139089937/85253d39-c8fd-4f7d-b70a-9798497f1566)
 
+<h2>Installed complete</h2>
+Browse to your help desk login page
+(http://localhost/osTicket/scp/login.php)
+
+<h2>End Users osTicket URL</h2>
+http://localhost/osTicket/
