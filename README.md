@@ -34,10 +34,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 
+![image](https://github.com/KevinVCruz26/osticket-prereqs/assets/139089937/696b73dc-8f2c-4464-9568-8f71363cd72d)
+
+
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 <h2>Install / Enable IIS in Windows WITH
@@ -46,9 +49,13 @@ CGI and Common HTTP Features</h2>
 [X] CGI
 [X] Common HTTP Features
 
+![image](https://github.com/KevinVCruz26/osticket-prereqs/assets/139089937/1966c4df-d64a-4bf7-95a2-5531814b84f5)
+
+
 <h2>AND IIS Management Console</h2>
 Internet Information Services -> Web Management Tools -> IIS Management Console
 	[X] IIS Management Console
+
 
 </p>
 <br />
@@ -66,6 +73,9 @@ Internet Information Services -> Web Management Tools -> IIS Management Console
 <h2>From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP</h2>
 
 [php-7.3.8-nts-Win32-VC15-x86.zip](https://drive.google.com/drive/folders/1yOk5ejp5Oe21USJfCgelyvdlJMwHRhxC?usp=drive_link)
+
+![image](https://github.com/KevinVCruz26/osticket-prereqs/assets/139089937/6c469cad-acf2-4fe7-a603-85ffbd9bd711)
+
 
 <h2>From the Installation Files, download and install VC_redist.x86.exe</h2>
 
@@ -116,30 +126,9 @@ Create a database called “osTicket”
 
 <h2>Continue Setting up osticket in the browser</h2>
 MySQL Database: osTicket
-MySQL Username: root
-MySQL Password: Password1
+MySQL Username: 
+MySQL Password: 
 Click “Install Now!”
 
+![image](https://github.com/KevinVCruz26/osticket-prereqs/assets/139089937/85253d39-c8fd-4f7d-b70a-9798497f1566)
 
-
-
-
-
-
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
